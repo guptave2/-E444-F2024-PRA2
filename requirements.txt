@@ -1,0 +1,6 @@
+Flask
+Flask-Mail
+Flask-WTF
+Flask-Moment
+Flask-Bootstrap
+email_validator==2.2.0 
